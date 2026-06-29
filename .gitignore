@@ -1,0 +1,34 @@
+# Data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Generated images
+generated_images/gan/*
+generated_images/diffusion/*
+!generated_images/gan/.gitkeep
+!generated_images/diffusion/.gitkeep
+
+# Model checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# System files
+.DS_Store
+
+# Large experiment outputs
+runs/
+wandb/
