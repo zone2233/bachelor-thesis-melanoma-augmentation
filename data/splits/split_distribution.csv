@@ -1,0 +1,4 @@
+split,total,melanoma,non_melanoma,melanoma_percentage
+train,8204,943,7261,11.49
+validation,1742,193,1549,11.08
+test,1774,169,1605,9.53
