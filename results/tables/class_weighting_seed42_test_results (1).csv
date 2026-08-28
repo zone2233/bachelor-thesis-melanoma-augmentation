@@ -1,0 +1,2 @@
+experiment,model,seed,best_epoch,threshold,positive_class_weight,test_loss,accuracy,precision,recall,f1,roc_auc,true_negatives,false_positives,false_negatives,true_positives
+E3_class_weighting,EfficientNet-B0,42,10,0.5,7.699893951416016,1.2019878324738618,0.8934611048478016,0.45901639344262296,0.6627218934911243,0.5423728813559322,0.8927427233681728,1473,132,57,112

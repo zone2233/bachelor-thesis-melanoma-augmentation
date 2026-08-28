@@ -1,0 +1,2 @@
+experiment,model,threshold,positive_class_weight,test_loss,accuracy,precision,recall,f1,roc_auc,true_negatives,false_positives,false_negatives,true_positives
+E3_class_weighting,EfficientNet-B0,0.5,7.699893951416016,0.9158811127722868,0.9024802705749718,0.491869918699187,0.7159763313609467,0.5831325301204819,0.9299489391509521,1480,125,48,121

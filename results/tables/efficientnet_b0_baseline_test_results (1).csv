@@ -1,0 +1,2 @@
+experiment,model,test_loss,accuracy,precision,recall,f1,roc_auc,true_negatives,false_positives,false_negatives,true_positives
+E1_real_imbalanced_baseline,EfficientNet-B0,0.2712431653510893,0.9041713641488163,0.4977578475336323,0.6568047337278107,0.5663265306122449,0.888687349075559,1493,112,58,111

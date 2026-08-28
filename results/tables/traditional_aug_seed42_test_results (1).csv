@@ -1,0 +1,2 @@
+experiment,model,seed,threshold,best_epoch,test_loss,accuracy,precision,recall,f1,roc_auc,true_negatives,false_positives,false_negatives,true_positives
+E2_traditional_augmentation,EfficientNet-B0,42,0.5,7,0.3437304993694503,0.9075535512965051,0.5133689839572193,0.5680473372781065,0.5393258426966292,0.8986451363158768,1514,91,73,96

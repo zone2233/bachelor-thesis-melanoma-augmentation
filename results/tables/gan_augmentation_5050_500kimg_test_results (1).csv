@@ -1,0 +1,2 @@
+experiment,gan_checkpoint_kimg,synthetic_melanoma_images,model,seed,best_epoch,threshold,test_loss,accuracy,precision,recall,f1,roc_auc,true_negatives,false_positives,false_negatives,true_positives
+E4_GAN500_5050_melanoma,500,6318,EfficientNet-B0,42,19,0.5,0.3959238627293434,0.915445321307779,0.5590062111801242,0.5325443786982249,0.5454545454545454,0.8928791314125606,1534,71,79,90
